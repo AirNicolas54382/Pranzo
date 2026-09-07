@@ -1,0 +1,64 @@
+html{
+    height: 99%;
+}
+body{
+    height: 100%;
+}
+#menu-bar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around ;
+    background-image: url("../gf.png");
+    margin: 40px;
+    padding: 0%;
+    color: white;
+    width: 100%;
+    
+}
+#menu-bar h1{
+    margin: 0px;
+    font-size: 60px;
+}
+#menu-bar h2{
+    margin: 0px;
+    font-size: 50px;
+}
+#menu{
+    border: 7px #C5BAAF dashed;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 50%;
+    width: 950px;
+}
+.menu-type{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+table{
+    width: 80%;
+}
+tr, td{
+    font-size: 30px;
+}
+th{
+    text-align: center;
+    font-size: 60px;
+}
+#Middle{
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+}
+
