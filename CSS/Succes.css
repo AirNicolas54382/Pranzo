@@ -1,0 +1,11 @@
+h1{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+}
+
+main{display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+color:black;}
