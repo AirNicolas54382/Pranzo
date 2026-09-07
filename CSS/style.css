@@ -1,0 +1,81 @@
+
+html{
+    height: 99%;
+    font-family: "Dancing Script", cursive; 
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    background-color: bisque;
+}
+#logo{
+    width: 200px;
+    height: 150px;
+}
+#navigation{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
+.navigation_a{
+    font-size: 50px;
+}
+.background{
+    width: 50%;
+    height: 80%;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+color:#C5BAAF;
+}
+main{
+    margin: 40px;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+    border: 30px #C5BAAF dashed;
+}
+
+#bar{
+    position: relative;
+}
+#text-bar{
+    position: absolute;
+    right: 25%;
+    top: 0%;
+    text-align: center;
+    height: 100%;
+}
+#bar img{
+    width: 100%;
+    height: 100%;
+}
+#text-bar h1{
+font-size: 80px;
+}
+#text-bar h5{
+    font-size: 30px;
+}
+#text-bar a button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+    height: 20%;
+    font-size: 30px;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: gray;
+    color: bisque;
+}
+#text-bar a button:hover{
+    background-color: bisque;
+    color: gray;
+}
+
