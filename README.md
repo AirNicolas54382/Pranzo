@@ -26,8 +26,8 @@
 ## 💻 Tech Stack & Structure
 
 The project relies on a standard web stack:
-*   **Backend:** PHP (41.1%)
-*   **Frontend:** CSS (23%), HTML (22.3%), JavaScript (4.4%)
+*   **Backend:** PHP 
+*   **Frontend:** CSS, HTML, JavaScript
 *   **Database:** MySQL
 *   **IDE:** Visual Studio Code (VSC)
 
@@ -61,6 +61,7 @@ http://localhost/Pranzo-main/HTML&PHP/Pranzo.html
 
 ---
 <img width="1906" height="995" alt="Pranzo_2" src="https://github.com/user-attachments/assets/81225f01-c54d-483c-a262-1bb29392cc55" />
+
 ## 👤 Author
 
 *   **GitHub:** [AirNicolas54382](https://github.com/AirNicolas54382)
